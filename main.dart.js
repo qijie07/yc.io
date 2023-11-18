@@ -26946,7 +26946,7 @@ $1(a){var s=$.cd
 s=(s==null?$.cd=A.f0(self.window.flutterConfiguration):s).b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://cdn.jsdelivr.net/npm/canvaskit-wasm@0.24.0/bin/":s)+a},
+if(s==null)s=null}return(s==null?"canvaskit/":s)+a},
 $S:65}
 A.apy.prototype={
 $1(a){this.a.remove()
